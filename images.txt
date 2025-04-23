@@ -6,4 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 mysql
 redis
+caoxu1/es01
 infiniflow/ragflow
